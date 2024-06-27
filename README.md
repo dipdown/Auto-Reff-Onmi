@@ -1,3 +1,8 @@
+# Aboout Onmi
+Onmi® — a cutting-edge AR RPG that transforms city streets into interactive gaming arenas, developed by experts from Blizzard, Playrix, and more. 
+
+Unlike typical AR games, Onmi offers a seamless blend of real-world mapping and augmented reality, complete with a dynamic card game, PvP challenges, and massive city-wide events with substantial prizes. Our game transcends typical play-to-earn models, focusing on a player-first economy that allows for crafting and trading game items. 
+
 # Installation for Linux
 1. Create Screen (Only VPS)
    ```sh
