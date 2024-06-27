@@ -23,5 +23,3 @@
    ```sh
    python3 main.py
    ```
-
-Contact me: t.me/eevrxx
